@@ -10,6 +10,7 @@ notebook/.ipynb_checkpoints
 # Ignore expanded data
 notebook/csse_covid_19_daily_reports
 notebook/csse_covid_19_daily_reports_us
+notebook/excess-deaths
 # Include population data
 !notebook/nst-est2019-01.csv
 !notebook/SYB62_1_201907_Population,_Surface_Area_and_Density.csv
