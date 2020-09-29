@@ -4,7 +4,14 @@
 *.csv
 # Include CDC deaths baseline
 !notebook/CDC_2018_All_Causes_Death_by_County_and_Month.csv
+!notebook/Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2018.csv
 # Ignore checkpoint files
 notebook/.ipynb_checkpoints
 # Ignore expanded data
 notebook/csse_covid_19_daily_reports
+notebook/csse_covid_19_daily_reports_us
+# Include population data
+!notebook/nst-est2019-01.csv
+!notebook/SYB62_1_201907_Population,_Surface_Area_and_Density.csv
+
+
